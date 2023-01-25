@@ -6,7 +6,7 @@ body{
     box-sizing: border-box;
     font-family: 'Open-Sans', sans-serif;
     font-size: 18px;
-    overflow-x: auto;
+    overflow-x: hidden;
 }
 .container {
     max-width: 1140px;
